@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 👨‍💻 All of my projects are available at [RyanDalton.dev](RyanDalton.dev)
+- 👨‍💻 All of my projects are available at [RyanDalton.dev](https://www.ryandalton.dev/)
 
 - 📫 How to reach me **DaltonR121@gmail.com**
 
