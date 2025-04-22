@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hey there, I’m Ryan 👋
 
-<!--
-**DaltonR121/DaltonR121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚛 From the road to the code — I spent 10 years driving tractor-trailer before shifting gears into tech.
 
-Here are some ideas to get you started:
+💻 I specialize in full-stack web development, cloud infrastructure, and systems that are easy to self-host and scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 What I'm working on
+- A **zero-database, privacy-first chat app** — a communication tool that stores *absolutely nothing*.
+
+---
+
+### 🌱 What I'm learning
+- Rust
+- Java
+- Self-hosting / Infrastructure
+
+---
+
+### 🤝 What I'm looking to collaborate on
+- Tools that empower small businesses and blue-collar workers
+- AI-powered utilities with real-world use cases
+
+---
+
+### 📬 How to reach me
+- LinkedIn: [linkedin.com/in/ryandaltontech](https://www.linkedin.com/in/devrdalton/)
+- Website: [ryandalton.dev](https://www.ryandalton.dev/)
+
+---
+
+*Thanks for stopping by — let's build something that matters.*
