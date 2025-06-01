@@ -7,11 +7,14 @@
 ---
 
 ### 🛠 What I'm working on
-- A **zero-database, privacy-first chat app** — a communication tool that stores *absolutely nothing*.
+Postponed: Currently learning Flutter/Dart
+~~- A **zero-database, privacy-first chat app** — a communication tool that stores *absolutely nothing*.~~
 
 ---
 
 ### 🌱 What I'm learning
+- Dart
+- Flutter
 - Rust
 - Java
 - Self-hosting / Infrastructure
