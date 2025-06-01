@@ -7,7 +7,7 @@
 ---
 
 ### 🛠 What I'm working on
-Postponed: Currently learning Flutter/Dart
+Postponed: Currently learning Flutter/Dart  
 ~~- A **zero-database, privacy-first chat app** — a communication tool that stores *absolutely nothing*.~~
 
 ---
